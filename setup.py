@@ -5,6 +5,7 @@ setup(
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='Only for bakchodi',
+    url='https://github.com/vishveshjain/bakchodbot.git',
     install_requires=['chainlit','openai'],
     author='vishvesh',
     author_email='vishveshjain@outlook.com'
